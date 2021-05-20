@@ -1,4 +1,3 @@
-  
 class Pet {
     constructor(name, fur) {
         this.name = name;

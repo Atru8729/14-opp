@@ -5,7 +5,7 @@ const Rabbit = require('./js/Rabbit');
 const rexas = new Dog('Rex', 'brown');
 rexas.voice();
 
-const rainis = new Cat('Rainis', 'white');
+const rainis = new Cat('Rainis', 'golden');
 rainis.voice();
 
 const benas = new Rabbit('Benas', 'black');

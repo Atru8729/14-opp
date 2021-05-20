@@ -5,10 +5,6 @@ class Rabbit extends Pet {
         super(name, fur);
         this.sound = 'nom nom';
     }
-
-    voice() {
-        console.log(`${this.name}: ${this.sound}!!`);
-    }
 }
 
 module.exports = Rabbit;
